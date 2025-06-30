@@ -43,9 +43,9 @@ To implement and compare classification models including Decision Tree, Random F
 
 | Model             | Accuracy   | Precision | Recall | F1-Score |
 |------------------|------------|-----------|--------|----------|
-| **Decision Tree** | ~ Printed in Console |
-| **Random Forest** | ~ Printed in Console |
-| **Gradient Boosting** | ~ Printed in Console |
+| **Decision Tree** | 98.54% | 1.0000 | 0.9714 | 0.9855 |
+| **Random Forest** | 100.00% | 1.0000 | 1.0000 | 1.0000 |
+| **Gradient Boosting** | 100.00% | 1.0000 | 1.0000 | 1.0000 |
 
 > 📌 *Exact metrics will be displayed after running the script.*
 
